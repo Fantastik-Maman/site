@@ -1,18 +1,18 @@
-100PercentCommunity: 100% community TODO
-100PercentFree: 100% free TODO
-100PercentOpenSource: 100% open source TODO
+100PercentCommunity: 100 % communautaire
+100PercentFree: 100 % gratuit 
+100PercentOpenSource: 100 % logiciel libre 
 aCodeBlock: A code block TODO
 aboutFreesewing: A propos de Freesewing
 add: Ajouter
-addAModel: Add a model TODO
-addComment: Add comment TODO
+addAModel: Ajouter un modèle TODO
+addComment: Ajouter un commentaire 
 all: Tout
 alreadyHaveAnAccount: Vous avez déjà un compte ?
-areYouSureAboutThis: Are you 100% sure about this? TODO
+areYouSureAboutThis: C'est sûr à 100 % ? 
 avatar: Avatar DONE
 avatarUpdated: Avatar mis à jour
-averagePeopleDontExist: Average people don't exist TODO
-basicTheme: Classic theme TODO
+averagePeopleDontExist: Les gens ordinaires n'existent pas
+basicTheme: Thème classique
 basics: Les bases
 becomeAPatron: Devenez mécène
 bio: Bio TODO
@@ -28,29 +28,29 @@ cancel: Annuler
 chatOnGitter: Chatter sur Gitter
 chatWithUs: Chatter avec nous
 chooseAModel: Choisir un modèle
-chooseANewPassword: Choose a new password TODO
+chooseANewPassword: Choisir un nouveau mot de passe
 chooseAPattern: Choisir un patron
 chooseYourOptions: Choisir vos options
 close: Fermer
 code: Code TODO
-comments: Comments TODO
+comments: Commentaires 
 community: Communauté
 compare: Comparer
 completePattern: Patron complet
 connectingToSomeApi: 'Connexion à l''API {api}'
-consent: Consent TODO
-consentForModelData: Consent for model data TODO
-consentForProfileData: Consent for profile data TODO
-consentGiven: Consent given TODO
+consent: Consentement
+consentForModelData: Consentement pour les données du modèle
+consentForProfileData: Consentement pour les données du profil 
+consentGiven: Consentement donné
 contactUs: Nous contacter
 content: Contenu
 contents: Contenus
-contributeToFreesewing: Contribute to freesewing TODO
+contributeToFreesewing: Contribuer à freesewing 
 coordinator: Coordinateur
 coreLink: Lien de base
 countAvailable: '{count} disponibles'
 countTranslated: '{count} traduits'
-createAnAccount: Create an account TODO
+createAnAccount: Créer un compte
 createIssueOnGithub: Créer une question sur GitHub
 createModel: Créer le modèle
 createMyAccount: Créer mon compte
@@ -82,13 +82,13 @@ edit: Editer
 editOnGithub: Editer avec GitHub
 email: E-mail DONE
 emailAddress: Adresse mail
-emailUpdatePending: E-mail update pending. TODO
+emailUpdatePending: Mise à jour du courriel en attente
 emails: E-mails DONE
 enterYourCurrentPassword: Composer votre mot de passe actuel
 enterYourNewPassword: Composer votre nouveau mot de passe
 error-unknown: Une erreur inconnue est survenue
 error-username_taken: Nom d'utilisateur déjà pris
-exportMyData: Export my data TODO
+exportMyData: Exporter mes données
 filterByPattern: Filtrer par patron
 forContributors: Pour les contributeurs
 forMoreInfoRtfm: 'Pour plus d''infos, lire la documentation:'
@@ -97,9 +97,9 @@ forUsers: Pour les utilisateurs
 fork: Fork TODO
 forkDraftHandle: 'Fork draft {handle} TODO'
 freesewing: Freesewing DONE
-freesewingContributors: Freesewing contributors TODO
-freesewingOnGithub: Freesewing on GitHub TODO
-freesewingPatrons: Freesewing patrons TODO
+freesewingContributors: Contributeurs de Freesewing
+freesewingOnGithub: Freesewing sur GitHub 
+freesewingPatrons: Mécènes de Freesewing 
 freezeMyAccount: Freeze my account TODO
 fullSizePdf: PDF à l'échelle
 fundamentals: Fondamentaux
